@@ -10,10 +10,10 @@ The Modeling Value Canvas is a theory-informed tool designed to help practitione
 
 The Canvas was evaluated in six real-world case studies with modelers in diverse roles, including consultants, academics, and practitioners with varying levels of modeling expertise. The results show that the tool is:
 
-- Useful across all evaluated cases,
-- Helpful for externalizing assumptions, organizing complex information, and comparing alternatives,
-- Effective in improving decision quality, highlighting risks and dependencies, and supporting clearer communication with stakeholders, and
-- Perceived as engaging and reusable, with participants expressing strong intentions to apply and recommend it in future work.
+- useful across all evaluated cases,
+- helpful for externalizing assumptions, organizing complex information, and comparing alternatives,
+- effective in improving decision quality, highlighting risks and dependencies, and supporting clearer communication with stakeholders, and
+- perceived as engaging and reusable, with participants expressing strong intentions to apply and recommend it in future work.
 
 ## Repository Contents
 
