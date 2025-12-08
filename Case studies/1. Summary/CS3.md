@@ -17,7 +17,7 @@ Online
 ### Completion
 Individually
 
-### Particpant profile
+### Participant profile
 - Occupation: Modeler at a Dutch company
 - Experience: +6 years
 - Self-classification: Advanced (High expertise, works independently, guides less experienced modelers, creates complex and accurate models.)
