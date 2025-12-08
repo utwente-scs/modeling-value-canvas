@@ -18,16 +18,16 @@ The Canvas was evaluated in six real-world case studies with modelers in diverse
 ## Repository Contents
 
 [Support Material](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Support%20material)
-- [Printable template of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Printed%20Version.pdf)
-- [Online template of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Online%20Version.md)
-- [Guidebook](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Guidebook.pdf)
-- [Tutorial video](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Tutorial%20Video.mp4)
+- [Printable template of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/Printed%20Template.pdf)
+- [Online template of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/Online%20Template.md)
+- [Guidebook](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/Guidebook.pdf)
+- [Tutorial video](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/Tutorial%20Video.mp4)
 
 [Case Studies](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies) 
-- [Summary](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Summary.png)
-- [Completed Canvases](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/Completed%20Canvases)
-- [Users profile & Use contexts](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/Users%20profile%20%26%20Use%20contexts)
-- [Users feedback](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/Users%20feedback)
+- [Summary](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/1.%20Summary)
+- [Completed Canvases](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/2.%20Completed%20Canvases)
+- [Users profile & Use contexts](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/3.%20Users%20profile%20%26%20Use%20contexts)
+- [Users feedback](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/4.%20Users%20feedback)
 
 ## How to Use This Repository
 
@@ -39,9 +39,9 @@ Start with the tutorial video and guidebook to understand the Canvas’s purpose
 
 Review the completed canvases from the case studies to see how the Canvas was applied in real modeling initiatives.
 
-3) Choose a Version
+3) Choose a Template
 
-Select the printable or online version of the Canvas that best fits your context.
+Select the printable or online template of the Canvas that best fits your context.
 
 4) Apply in Your Own Context
 
