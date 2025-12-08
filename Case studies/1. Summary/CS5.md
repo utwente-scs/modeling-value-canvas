@@ -23,7 +23,7 @@ Individually
 - Self-classification: Intermediate (Good grasp of concepts and tools, works independently on many tasks, creates moderately complex models.)
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
 
-### Participant comment regarding outcome: 
+### Participant comment regarding the outcome: 
 “The Canvas forces you to re-examine any contrasts between what is and what could be if a different decision had been made.”
 
 ## Completed Canvas
