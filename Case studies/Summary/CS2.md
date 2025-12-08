@@ -1,9 +1,5 @@
 # Case Study CS2 
 
-### Overview
-
-CS2 focuses on the development of a neuro-symbolic chatbot that combines large language models (LLMs) with an ontology-based knowledge structure to deliver accurate, context-aware customer support in a highly dynamic commercial environment. The project emphasizes simplicity, maintainability, and scalability, particularly in contexts where expert modelers or ontologists will not be available long-term.
-
 ### Description
 
 The project aims to develop a neuro-symbolic chatbot that integrates large language models with an ontology-based knowledge structure. The goal is to provide accurate and context-aware customer support in a highly dynamic business environment, while keeping the system simple and easy to update. By constraining responses through symbolic reasoning, the chatbot reduces hallucinations, improves answer precision, and significantly lowers token usage and operational costs. The solution also decreases the workload of error analysis teams and human customer service agents, who currently handle an unmanageable volume of interactions. A major challenge is maintaining the ontology as commercial events frequently change, without relying on expert ontologists. Therefore, the project explores automatic or low-effort ontology update mechanisms derived from text, ensuring long-term robustness and scalability.

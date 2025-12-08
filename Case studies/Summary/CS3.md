@@ -1,29 +1,25 @@
-# Case Study CS2 
-
-### Overview
-
-CS2 focuses on the development of a neuro-symbolic chatbot that combines large language models (LLMs) with an ontology-based knowledge structure to deliver accurate, context-aware customer support in a highly dynamic commercial environment. The project emphasizes simplicity, maintainability, and scalability, particularly in contexts where expert modelers or ontologists will not be available long-term.
+# Case Study CS3 
 
 ### Description
 
-The project aims to develop a neuro-symbolic chatbot that integrates large language models with an ontology-based knowledge structure. The goal is to provide accurate and context-aware customer support in a highly dynamic business environment, while keeping the system simple and easy to update. By constraining responses through symbolic reasoning, the chatbot reduces hallucinations, improves answer precision, and significantly lowers token usage and operational costs. The solution also decreases the workload of error analysis teams and human customer service agents, who currently handle an unmanageable volume of interactions. A major challenge is maintaining the ontology as commercial events frequently change, without relying on expert ontologists. Therefore, the project explores automatic or low-effort ontology update mechanisms derived from text, ensuring long-term robustness and scalability.
+This project examines how conceptual modeling can support collective action in large-scale, public–private health data collaborations. It focuses on enabling national and cross-border health data infrastructures and on delivering interoperable and accessible services for researchers, citizens, and care providers across Europe. By linking stakeholder needs, interoperability challenges, and measurable outcomes, the project shows how conceptual models improve data integration, reuse, and governance. In this context, models act as shared artifacts that align diverse actors, organizations, and technical systems. The outcomes contribute to evidence-based decision-making and support the development of a learning healthcare system.
 
 ### Goal
-The Modeling Value Canvas was used to analyze how conceptual models can support the development of a reliable chatbot in the presence of frequent and unpredictable changes, particularly during sales and promotional events.
+The Modeling Value Canvas was used to decide which Key Performance Indicators (KPIs) should demonstrate the value of conceptual modeling in a multi-stakeholder initiative aimed at improving interoperability of health data within the EU.
 
 ### Guiding question
 
-How, and to what extent, is it worthwhile to model dynamic events in a context where no specialists will be available to update the model in the future?
+Which KPIs should be tracked to evidence the initiative’s value to stakeholders?
 
 ### Particpant profile
-- Occupation: PhD Student
-- Experience: 1–3 years
+- Occupation: Modeler at a Dutch company
+- Experience: +6 years
 - Self-classification: Advanced (High expertise, works independently, guides less experienced modelers, creates complex and accurate models.)
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
 
 
 ### Participant comment regarding outcome: 
-“I was initially resistant to abandoning the modeling methodology we had been using. However, once I began documenting information directly in the Canvas blocks, I realized its importance. Some colleagues already suspected that our strategy needed to change, and the Canvas made this even clearer. It helped make the discussion easier to understand.”
+“The Canvas helped because it forces us to think about how to categorize the information. This prevents a scattered line of thought, since we have to fit each element into the ‘boxes’ and make sure all of them are filled.”
 
 ## Completed Canvas
-![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Completed%20Canvases/CS2.png)
+![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Completed%20Canvases/CS3.png)
