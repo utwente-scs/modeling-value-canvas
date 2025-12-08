@@ -1,8 +1,8 @@
 # Case Study CS3 
 
-### Description
+### Context
 
-This project examines how conceptual modeling can support collective action in large-scale, public–private health data collaborations. It focuses on enabling national and cross-border health data infrastructures and on delivering interoperable and accessible services for researchers, citizens, and care providers across Europe. By linking stakeholder needs, interoperability challenges, and measurable outcomes, the project shows how conceptual models improve data integration, reuse, and governance. In this context, models act as shared artifacts that align diverse actors, organizations, and technical systems. The outcomes contribute to evidence-based decision-making and support the development of a learning healthcare system.
+The initiative adopts a model-driven, ontology-based approach to FAIR-aligned semantic interoperability, grounded in semantic traceability for health and life-sciences data. It establishes a shared semantic reference model, defined in OntoUML and implemented as a gUFO-based OWL ontology, which functions as a semantic hub for major standards such as FHIR, OMOP, and openEHR. Rather than relying on numerous technically complex, case-specific mappings, concepts from external standards and schemas are aligned once to HRIO through meaning-centric mapping relations that explicitly capture their intended interpretation. By making these meanings explicit and machine-interpretable, the approach minimizes the risk of false semantic agreement and enables robust, reliable interoperability across systems and domains.
 
 ### Goal
 The Modeling Value Canvas was used to decide which Key Performance Indicators (KPIs) should demonstrate the value of conceptual modeling in a multi-stakeholder initiative aimed at improving interoperability of health data within the EU.
@@ -22,7 +22,6 @@ Individually
 - Experience: +6 years
 - Self-classification: Advanced (High expertise, works independently, guides less experienced modelers, creates complex and accurate models.)
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
-
 
 ### Participant comment regarding outcome: 
 “The Canvas helped because it forces us to think about how to categorize the information. This prevents a scattered line of thought, since we have to fit each element into the ‘boxes’ and make sure all of them are filled.”

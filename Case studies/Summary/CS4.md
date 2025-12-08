@@ -1,6 +1,6 @@
 # Case Study CS4 
 
-### Description
+### Context
 
 .
 

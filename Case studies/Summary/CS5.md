@@ -1,6 +1,6 @@
 # Case Study CS5 
 
-### Description
+### Context
 
 .
 
