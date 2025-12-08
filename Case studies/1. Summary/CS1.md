@@ -10,7 +10,7 @@ The Modeling Value Canvas was used to reflect on the development and use of the 
 
 Was creating the modeling solutions to support the applications’ development a worthwhile investment?
 
-### Particpant profile
+### Participant profile
 - Occupation: PhD Student
 - Experience: 1–3 years
 - Self-classification: Intermediate (Good grasp of concepts and tools, works independently on many tasks, creates moderately complex models.)
