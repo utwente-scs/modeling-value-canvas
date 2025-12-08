@@ -17,7 +17,7 @@ Online
 ### Completion
 Individually
 
-### Particpant profile
+### Participant profile
 - Occupation: Consultant at a Dutch company
 - Experience: 1–3 years
 - Self-classification: Intermediate (Good grasp of concepts and tools, works independently on many tasks, creates moderately complex models.)
