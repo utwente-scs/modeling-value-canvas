@@ -27,4 +27,4 @@ Individually
 “The Canvas helped because it forces us to think about how to categorize the information. This prevents a scattered line of thought, since we have to fit each element into the ‘boxes’ and make sure all of them are filled.”
 
 ## Completed Canvas
-![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Completed%20Canvases/CS3.png)
+![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/2.%20Completed%20Canvases/CS3.png)

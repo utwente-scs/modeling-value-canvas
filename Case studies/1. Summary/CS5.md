@@ -27,4 +27,4 @@ Individually
 “The Canvas forces you to re-examine any contrasts between what is and what could be if a different decision had been made.”
 
 ## Completed Canvas
-![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Completed%20Canvases/CS5.png)
+![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/2.%20Completed%20Canvases/CS5.png)

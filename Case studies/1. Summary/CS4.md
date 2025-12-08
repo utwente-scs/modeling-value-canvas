@@ -27,4 +27,4 @@ Individually
 “By using the Canvas, I am forced to be very transparent about the artifacts I’m working with. It is not enough to be familiar with the technology or rely on the implicit knowledge I have from experience. This refinement and discussion add more value to the ultimate goal, which is to justify the modeling project.”
 
 ## Completed Canvas
-![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Completed%20Canvases/CS4.png)
+![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/2.%20Completed%20Canvases/CS4.png)

@@ -28,4 +28,4 @@ collectively
 “I think it’s a good conversation starter to take what we had here and then work with it.”
 
 ## Completed Canvas
-![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Completed%20Canvases/CS6.jpeg)
+![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/2.%20Completed%20Canvases/CS6.jpeg)

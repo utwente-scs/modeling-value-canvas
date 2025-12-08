@@ -17,4 +17,4 @@ Was creating the modeling solutions to support the applications’ development a
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
 
 ## Completed Canvas
-![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/Completed%20Canvases/CS1.png)
+![alt text](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Case%20studies/2.%20Completed%20Canvases/CS1.png)
