@@ -18,8 +18,8 @@ The Canvas was evaluated in six real-world case studies with modelers in diverse
 ## Repository Contents
 
 [Support Material](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Support%20material)
-- [Printable version of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Printed%20Version.pdf)
-- [Online version of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Online%20Version.md)
+- [Printable template of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Printed%20Version.pdf)
+- [Online template of the Modeling Value Canvas](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Online%20Version.md)
 - [Guidebook](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Guidebook.pdf)
 - [Tutorial video](https://github.com/utwente-scs/modeling-value-canvas/blob/main/Support%20material/The%20Modeling%20Value%20Canvas%20Tutorial%20Video.mp4)
 
