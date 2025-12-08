@@ -25,7 +25,7 @@ The Canvas was evaluated in six real-world case studies with modelers in diverse
 
 [Case Studies](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies) 
 - [Summary](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/1.%20Summary)
-- [Completed Canvases](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/2.%20Completed%20Canvases)
+- [Completed canvases](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/2.%20Completed%20Canvases)
 - [Users profile & Use contexts](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/3.%20Users%20profile%20%26%20Use%20contexts)
 - [Users feedback](https://github.com/utwente-scs/modeling-value-canvas/tree/main/Case%20studies/4.%20Users%20feedback)
 
