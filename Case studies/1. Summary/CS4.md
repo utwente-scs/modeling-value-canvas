@@ -17,7 +17,7 @@ Online
 ### Completion
 Individually
 
-### Particpant profile
+### Participant profile
 - Occupation: Assistant professor at a Dutch university
 - Experience: +6 years
 - Self-classification: Expert (Highly proficient and sought after, handles complex tasks, in-depth understanding of methodologies and tools.)
