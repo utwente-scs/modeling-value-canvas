@@ -11,11 +11,6 @@ The project aims to develop a neuro-symbolic chatbot that integrates large langu
 ### Goal
 The Modeling Value Canvas was used to analyze how conceptual models can support the development of a reliable chatbot in the presence of frequent and unpredictable changes, particularly during sales and promotional events.
 
-The Canvas helped participants reason about:
-- The trade-offs between modeling effort and long-term maintainability
-- The role of conceptual models in stabilizing AI-driven systems
-- The feasibility of keeping models up to date without expert involvement 
-
 ### Guiding question
 
 How, and to what extent, is it worthwhile to model dynamic events in a context where no specialists will be available to update the model in the future?
