@@ -1,6 +1,6 @@
 # Case Study CS2 
 
-### Description
+### Context
 
 The project aims to develop a neuro-symbolic chatbot that integrates large language models with an ontology-based knowledge structure. The goal is to provide accurate and context-aware customer support in a highly dynamic business environment, while keeping the system simple and easy to update. By constraining responses through symbolic reasoning, the chatbot reduces hallucinations, improves answer precision, and significantly lowers token usage and operational costs. The solution also decreases the workload of error analysis teams and human customer service agents, who currently handle an unmanageable volume of interactions. A major challenge is maintaining the ontology as commercial events frequently change, without relying on expert ontologists. Therefore, the project explores automatic or low-effort ontology update mechanisms derived from text, ensuring long-term robustness and scalability.
 
@@ -10,6 +10,12 @@ The Modeling Value Canvas was used to analyze how conceptual models can support 
 ### Guiding question
 
 How, and to what extent, is it worthwhile to model dynamic events in a context where no specialists will be available to update the model in the future?
+
+### Template
+Online
+
+### Completion
+Individually
 
 ### Particpant profile
 - Occupation: PhD Student

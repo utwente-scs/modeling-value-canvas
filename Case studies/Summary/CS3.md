@@ -11,6 +11,12 @@ The Modeling Value Canvas was used to decide which Key Performance Indicators (K
 
 Which KPIs should be tracked to evidence the initiative’s value to stakeholders?
 
+### Template
+Online
+
+### Completion
+Individually
+
 ### Particpant profile
 - Occupation: Modeler at a Dutch company
 - Experience: +6 years
