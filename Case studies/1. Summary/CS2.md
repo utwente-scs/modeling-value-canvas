@@ -17,7 +17,7 @@ Online
 ### Completion
 Individually
 
-### Particpant profile
+### Participant profile
 - Occupation: PhD Student from a Brazilian university
 - Experience: 1–3 years
 - Self-classification: Advanced (High expertise, works independently, guides less experienced modelers, creates complex and accurate models.)
