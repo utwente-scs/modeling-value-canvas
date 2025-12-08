@@ -17,13 +17,13 @@ Online
 ### Completion
 Individually
 
-### Particpant profile
+### Participant profile
 - Occupation: Modeler at a Dutch company
 - Experience: +6 years
 - Self-classification: Advanced (High expertise, works independently, guides less experienced modelers, creates complex and accurate models.)
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
 
-### Participant comment regarding outcome: 
+### Participant comment regarding the outcome: 
 “The Canvas helped because it forces us to think about how to categorize the information. This prevents a scattered line of thought, since we have to fit each element into the ‘boxes’ and make sure all of them are filled.”
 
 ## Completed Canvas

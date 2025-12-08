@@ -17,13 +17,13 @@ Online
 ### Completion
 Individually
 
-### Particpant profile
+### Participant profile
 - Occupation: PhD Student from a Brazilian university
 - Experience: 1–3 years
 - Self-classification: Advanced (High expertise, works independently, guides less experienced modelers, creates complex and accurate models.)
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
 
-### Participant comment regarding outcome: 
+### Participant comment regarding the outcome: 
 “I was initially resistant to abandoning the modeling methodology we had been using. However, once I began documenting information directly in the Canvas blocks, I realized its importance. Some colleagues already suspected that our strategy needed to change, and the Canvas made this even clearer. It helped make the discussion easier to understand.”
 
 ## Completed Canvas
