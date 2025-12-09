@@ -10,6 +10,12 @@ The Modeling Value Canvas was used to reflect on the development and use of the 
 
 Was creating the modeling solutions to support the applications’ development a worthwhile investment?
 
+### Template
+Online
+
+### Completion
+Individually
+
 ### Participant profile
 - Occupation: PhD Student at a Dutch university
 - Experience: 1–3 years
