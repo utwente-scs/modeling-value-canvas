@@ -18,7 +18,7 @@ Online
 Individually
 
 ### Participant profile
-- Occupation: PhD Student from a Brazilian university
+- Occupation: PhD Student at a Brazilian university
 - Experience: 1–3 years
 - Self-classification: Advanced (High expertise, works independently, guides less experienced modelers, creates complex and accurate models.)
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
