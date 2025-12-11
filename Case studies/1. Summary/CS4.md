@@ -2,7 +2,7 @@
 
 ### Context
 
-.
+The project focuses on improving the reusability and interoperability of the competency standards defined by the Association for Computing Machinery (ACM) for Information Systems education. Although ACM provides a well-structured competency-based framework in IS2020, its text-only format limits integration across educational programs and tools. To address this, the project develops a machine-interpretable competency dataset that faithfully reproduces the IS2020 standards. The competencies are encoded as an OWL ontology aligned with the Competence Reference Ontology (Core-O), ensuring semantic consistency and cross-domain interoperability. The dataset is created following the Go-Plan FAIRification methodology to enhance findability, accessibility, interoperability, and reusability.
 
 ### Goal
 The Modeling Value Canvas was used to justify the use of an ontology for standardizing educational competencies in a collaborative project between universities in Brazil and the Netherlands.
@@ -12,10 +12,10 @@ The Modeling Value Canvas was used to justify the use of an ontology for standar
 Why should an ontology be used to standardize competencies in educational scenarios?
 
 ### Template
-Online
+The Canvas was completed online.
 
 ### Completion
-Individually
+The Canvas was filled out individually by a member of the project team.
 
 ### Participant profile
 - Occupation: Assistant professor at a Dutch university

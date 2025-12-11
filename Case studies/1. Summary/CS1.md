@@ -11,15 +11,20 @@ The Modeling Value Canvas was used to reflect on the development and use of the 
 Was creating the modeling solutions to support the applications’ development a worthwhile investment?
 
 ### Template
-Online
+The Canvas was completed online.
 
 ### Completion
-Individually
+The Canvas was filled out individually by a member of the research team, based on data obtained through an interview with the IT team leader.
 
-### Participant profile
+### Profile of the person who filled out the canvas
 - Occupation: PhD Student at a Dutch university
 - Experience: 1–3 years
 - Self-classification: Intermediate (Good grasp of concepts and tools, works independently on many tasks, creates moderately complex models.)
+- Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
+
+### Profile of the person who provided the information
+- Occupation: Information architect at an international oil company 
+- Experience: +6 years
 - Modeling Activities: Reading and providing feedback on conceptual models created by others; Creating conceptual models independently; Documenting conceptual models; Updating conceptual models created by someone else.
 
 ## Completed Canvas
