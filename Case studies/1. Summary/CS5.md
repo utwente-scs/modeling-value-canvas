@@ -8,14 +8,13 @@
 The Modeling Value Canvas was used to reflect on the outcomes of a project that employed an ontology to accelerate and improve data exchange among stakeholders in the Netherlands.
 
 ### Guiding question
-
 Was linked data a worthy investment for the project?
 
 ### Template
-Online
+The Canvas was completed online.
 
 ### Completion
-Individually
+The Canvas was filled out individually by a member of the project team.
 
 ### Participant profile
 - Occupation: Consultant at a Dutch company

@@ -11,10 +11,10 @@ The Modeling Value Canvas was used to plan improvements to a company’s chatbot
 How can the accuracy of the company’s chatbot be improved?
 
 ### Template
-Printed
+The Canvas was completed in person using the printable template.
 
 ### Completion
-collectively
+The Canvas was filled out collectively by three members of the project team.
 
 ### Participants profile
 - Occupation: 1 PhD Student and 2 EngD Students from a Dutch university

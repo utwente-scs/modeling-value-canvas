@@ -7,7 +7,6 @@ The project aimed to support the tax department of an international oil company 
 The Modeling Value Canvas was used to reflect on the development and use of the OntoUML conceptual model, the OWL ontology, and the supporting documentation, with the aim of assessing the value they provided throughout the project lifecycle.
 
 ### Guiding question
-
 Was creating the modeling solutions to support the applications’ development a worthwhile investment?
 
 ### Template

@@ -8,14 +8,13 @@ The initiative adopts a model-driven, ontology-based approach to FAIR-aligned se
 The Modeling Value Canvas was used to decide which Key Performance Indicators (KPIs) should demonstrate the value of conceptual modeling in a multi-stakeholder initiative aimed at improving interoperability of health data within the EU.
 
 ### Guiding question
-
 Which KPIs should be tracked to evidence the initiative’s value to stakeholders?
 
 ### Template
-Online
+The Canvas was completed online.
 
 ### Completion
-Individually
+The Canvas was filled out individually by a member of the project team.
 
 ### Participant profile
 - Occupation: Modeler at a Dutch company

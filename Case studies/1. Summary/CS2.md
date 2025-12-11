@@ -8,14 +8,13 @@ The project aims to develop a neuro-symbolic chatbot that integrates large langu
 The Modeling Value Canvas was used to analyze how conceptual models can support the development of a reliable chatbot in the presence of frequent and unpredictable changes, particularly during sales and promotional events.
 
 ### Guiding question
-
 How, and to what extent, is it worthwhile to model dynamic events in a context where no specialists will be available to update the model in the future?
 
 ### Template
-Online
+The Canvas was completed online.
 
 ### Completion
-Individually
+The Canvas was filled out individually by a member of the project team.
 
 ### Participant profile
 - Occupation: PhD Student at a Brazilian university
