@@ -2,7 +2,7 @@
 
 ### Context
 
-.
+The project aims to streamline the exchange of accountability data between information-requesting parties and healthcare providers regarding the quality of nursing home care and organizational operations. By improving the accessibility and reusability of data already recorded by healthcare providers, the initiative reduces administrative burdens while enhancing the quality, consistency, and usefulness of the information exchanged.
 
 ### Goal
 The Modeling Value Canvas was used to reflect on the outcomes of a project that employed an ontology to accelerate and improve data exchange among stakeholders in the Netherlands.
