@@ -1,3 +1,15 @@
+# Repository Status
+
+This repository contains the materials accompanying the original publication.
+
+An expanded and updated version of these materials is now available as part of the PhD thesis repository:
+
+**Towards Understanding the Use Value of Domain Modeling**
+
+https://doi.org/10.6084/m9.figshare.32592243
+
+The Figshare collection includes the latest datasets, documentation, replication packages, and research artifacts and should be considered the primary reference for this work.
+
 # Modeling Value Canvas 
 
 This repository provides the support material and real-world examples that accompany the Modeling Value Canvas and guide its practical use.
