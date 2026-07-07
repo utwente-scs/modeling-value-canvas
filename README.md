@@ -1,4 +1,10 @@
-# Repository Status
+# Modeling Value Canvas 
+
+This repository provides the support material and real-world examples that accompany the Modeling Value Canvas and guide its practical use.
+
+The Modeling Value Canvas is a theory-informed tool designed to help practitioners and researchers assess and communicate the value of domain modeling. 
+
+## Repository Status
 
 This repository contains the materials accompanying the original publication.
 
@@ -9,13 +15,6 @@ An expanded and updated version of these materials is now available as part of t
 https://doi.org/10.6084/m9.figshare.32592243
 
 The Figshare collection includes the latest datasets, documentation, replication packages, and research artifacts and should be considered the primary reference for this work.
-
-# Modeling Value Canvas 
-
-This repository provides the support material and real-world examples that accompany the Modeling Value Canvas and guide its practical use.
-
-The Modeling Value Canvas is a theory-informed tool designed to help practitioners and researchers assess and communicate the value of domain modeling. It offers a systematic structure to:
-
 
 ## Repository Contents
 
